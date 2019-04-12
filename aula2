@@ -1,0 +1,4 @@
+km = 10
+tempo_segundos = (53*60)
+media = (1*tempo_segundos)/km
+print(media)
